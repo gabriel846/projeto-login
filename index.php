@@ -12,7 +12,7 @@ $u = new Usuario();
 </head>
 <body>
 <div id="corpo-form">
-	<h1>Entrar</h1>
+	<h1>Entrar</h1><!--MEU PRIMEIRO PROJETO COM PHP -->
 	<form method="POST">
 		<input type="email" placeholder="Usuário" name="email">
 		<input type="password" placeholder="Senha" name="senha">
