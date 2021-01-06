@@ -7,7 +7,7 @@ $u = new Usuario();
 <head>
 	<meta charset="utf-8"/>
 	<title>Projeto Login</title>
-	<link rel="stylesheet" href="CSS/estilo.css"/*chamr o estilo do css para oprojeto*/
+	<link rel="stylesheet" href="CSS/estilo.css"><!--chamr o estilo do css para oprojeto-->
 	<meta name="viewport" content="width=device-width">
 </head>
 <body>
