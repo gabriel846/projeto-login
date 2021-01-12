@@ -6,7 +6,7 @@ body{
 	background: url("../IMAGENS/fundo2.jpg");
 	background-position: 50% 90%;
 	color: white;
-	font-family: arial;
+	font-family: arial;/*estilo da pagina de login*/
 	background-repeat: no-repeat;
 }
 input{
